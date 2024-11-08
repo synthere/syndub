@@ -8,7 +8,7 @@
 SynthereDub 将视频从一种语言的声音转译成另一种语言，使用无需注册的语音识别和翻译工具，自带edge TTS语音合成，也可使用从第三方工具合成的声音 。 
 <br>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uM9woBW1fAs&t=18s/0.jpg)](https://www.youtube.com/watch?v=uM9woBW1fAs&t=18s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uM9woBW1fAs/0.jpg)](https://www.youtube.com/watch?v=uM9woBW1fAs)
 
 
 ##  Updates
