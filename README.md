@@ -5,7 +5,7 @@
 <br>
 
 ![mainframe](./resource/main.png) 
-SynthereDub Translate videos from one language's voice to another using unregistered speech recognition and translation tools, with built-in edge TTS speech synthesis, and can also use voice synthesized from third-party tools.
+SynthereDub Translate videos from one language's voice to another using free speech recognition and translation tools, with built-in edge TTS speech synthesis, and can also use voice synthesized from third-party tools.
 <br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uM9woBW1fAs/0.jpg)](https://www.youtube.com/watch?v=uM9woBW1fAs)
