@@ -49,6 +49,7 @@ Mainly relies on the following open-source projects
 - [PySide6](https://pypi.org/project/PySide6/)
 - [Sherpa_onnx](https://github.com/k2-fsa/sherpa/tree/master)
 
+Join in Discord:https://discord.com/invite/7M6fJJZt
 
 
 
